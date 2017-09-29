@@ -3063,7 +3063,7 @@
 			-webkit-justify-content: center;
 			-ms-justify-content: center;
 			justify-content: center;
-			width: 50em;
+			//width: 50em;
 			-ms-flex: 1;
 		}
 
@@ -3867,7 +3867,7 @@
 
 						#sidebar nav a:after {
 							background-image: none;
-							background-color: #b74e91;
+							background-color: #574291;
 						}
 
 		}
